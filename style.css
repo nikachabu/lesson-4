@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+header {
+	
+	background-color: #0020F4;
+}
+nav a{
+    color: #FFFFFF;
+}
+.rectangle{
+	
+	width: 100%;
+	height: 600px;
+	border-radius: 15px;
+
+	
+}
+.rectangle1 img{
+    margin: 25px;
+    border-radius: 15px;
+    
+}
+.about{
+	
+	width: 1500px;
+	margin: 0 auto;
+	background-color: lightskyblue;
+	border: 5px dotted red;
+	
+	
+}
+.about p{
+    margin: 18px;
+}
+.about a{
+    background-color: #0A22F4;
+    border-radius: 28px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+
+
+
